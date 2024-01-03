@@ -34,7 +34,7 @@
                       "semver"                  : ">=2.3.0",
                       "security"                : "1.0.0",
                       "tinycon"                 : ">=0.0.1",
-                      "underscore"              : "1.5.1",
+                      "underscore"              : "1.12.1",
                       "unorm"                   : ">=1.3.3",
                       "languages4translatewiki" : ">=0.1.3",
                       "swagger-node-express"    : ">=2.1.0",
